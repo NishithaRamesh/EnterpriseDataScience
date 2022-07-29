@@ -3,7 +3,7 @@
 Repository Organization
 ------------
 
-    ├── Delivery 1 and 2        <- Contains the images, data and Jupyter-Notebook python code for delivery 1 and 2
+    ├── Task 1                  <- Contains the images, data and Jupyter-Notebook python code for delivery 1 and 2
     ├── Data                    
     │   ├── procesed            <- The final data used for modeling.
     │   └── raw                 <- The original data dump from various sources.
